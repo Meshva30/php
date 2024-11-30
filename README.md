@@ -24,5 +24,8 @@ This is a simple web application featuring a dynamic form built with **PHP**, **
 https://github.com/user-attachments/assets/b977f206-1e71-4904-9fda-646770d00305
 # Api Video
 https://github.com/user-attachments/assets/4a02e75e-e855-4f37-a008-b60c2c00df5e
+# User Auth Video
+https://github.com/user-attachments/assets/e5b073af-2b0d-47f5-a8af-8403e1f465d4
+
 
 
