@@ -28,4 +28,19 @@ https://github.com/user-attachments/assets/4a02e75e-e855-4f37-a008-b60c2c00df5e
 https://github.com/user-attachments/assets/e5b073af-2b0d-47f5-a8af-8403e1f465d4
 
 
+# Customer Management API
+
+The Customer Management API was designed to provide a simple backend for managing customer records, including features like:
+
+Creating new customer records.
+Retrieving customer details.
+Updating existing customer records.
+Deleting customers.
+
+## Video
+https://github.com/user-attachments/assets/8c326537-6705-4029-87d1-c801daf2e59d
+
+
+
+
 
